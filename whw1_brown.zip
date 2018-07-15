@@ -1,0 +1,51 @@
+﻿<!--CTI 110 WHW1 Java House Home Page
+StephenBrown
+07/14/18
+
+
+
+
+-->
+
+
+
+
+<!DOCTYPE html>
+<html>
+ <h1>
+ <title>The Java House &nbsp;
+ </title>
+ </h1>
+ <body>
+ <h2>Welcome to the Java page</h2>
+ <nav>"Navigation" &nbsp; 
+ <b>
+ <a href=”index.html”>Home links to index.html (this page)</a>
+        <a href=”menu.html”>Menu links to menu.html</a>
+        <a href=”music.html”>Music links to music.html</a>
+        <a href=”jobs.html”>Jobs links to jobs.html</a> </b>
+
+
+ </nav>
+ <h2>
+ <main>"Main conment" </main>
+ </h2>
+           
+ <p><b>"Relax at the Java House"</b></p>
+  <p>Located in historic downtown Fayetteville, Java House has been open since 2007.</p>
+ <ul><li> Specialty coffee from around the World</li>
+          <li>Muffins, bagels, and sandwiches</li>
+           <li>Live music</li>
+           <li>Open Mic Thursday</li></ul>
+       
+ <div> Java House
+         323 Hay street
+          Fayetteville, NC 28301
+          (910) 555-7890
+           Open 8am-10pm
+</div>
+<footer>
+      <br>&#169  2017 Java House Inc<a href=”browns5229@student.faytechcc.edu”>Student Email</a></br>
+</footer>
+</body>
+</html>
