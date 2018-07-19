@@ -1,0 +1,59 @@
+﻿<!--CTI 110 WHW2 Java House Home Page
+StephenBrown
+07/19/18-->
+
+<!DOCTYPE html>
+
+
+<html>
+<head><title>The Java House Coffee Shop</title></head>
+<body>
+<h1>Welcome to the Java page</h1>
+<b><p>
+<a href=”index.html”>Home </a>
+<a href=”menu.html”>Menu </a>
+<a href=”music.html”>Music </a>
+<a href=”jobs.html”>Jobs</a> </b>
+</b></p>
+<main>
+<!--Main Content-->
+
+<div> 
+Java House<br>
+323 Hay street<br>
+Fayetteville, NC 28301<br>
+(910) 555-7890<br>
+Open 8am-10pm<br>
+
+<!--Menu-->
+<p> Last Updated August Coffe and Sandwiches at the Java House!</p>
+<dl>
+<dt>Coffe</dl><br>
+<dd>"Regular house blend(Arabica or Robusta), decaf, or our flavor of the day!</dd>
+<dd>"Endless Cup $1.99</dd>
+<dt>Cappuccino</dt><br>
+<dd>Espresso with steamed milk. Strongn yet subtle.</dd>
+<dd>Single $3.99</dd>
+<dd>Double $4.99</dd>
+<dt>Ice Coffee</dt><br>
+<dd>Our house blend served with ice and milk,perfect for a hot day. $2.99</dd>
+<dt>Bagel or Muffin</dt><br>
+<dd>From our bakery assortment. $1.49</dd>
+<dt>Sandwiches</dt><br>
+<dd>Your choice of ham, turkey, or sun-dried tomato, on white or wheat. 
+Or try our new hot panini $5.49</dd>
+
+
+
+
+</div>
+</main>
+<p></p>
+</br>
+<footer>
+<--footer-->
+&#169  2017 Java House Inc<b>
+<a href=”browns5229@student.faytechcc.edu”>Student Email</a></br>
+</footer>
+</body>
+</html>
